@@ -1,3 +1,6 @@
+Team: Erick Garcia
+
+
 1.  I would fit the automated tests within a github action that runs whenever some code is pushed. I argue that this is the best choice as it automates the testing process of the development workflow and helps us catch any bugs immediately after any new patch of code is added. It would improve reliability by checking certaim features after each update which is a good SWE practice. 
 
 2. No. E2E test are mostly used to test the user workflow and interactions with the app. Unit testing would be most appropriate. 
